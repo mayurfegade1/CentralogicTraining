@@ -1,0 +1,14 @@
+C:\Users\mayur\source\repos\color\bin\Debug\net6.0\color.exe
+C:\Users\mayur\source\repos\color\bin\Debug\net6.0\color.deps.json
+C:\Users\mayur\source\repos\color\bin\Debug\net6.0\color.runtimeconfig.json
+C:\Users\mayur\source\repos\color\bin\Debug\net6.0\color.dll
+C:\Users\mayur\source\repos\color\bin\Debug\net6.0\color.pdb
+C:\Users\mayur\source\repos\color\obj\Debug\net6.0\color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\source\repos\color\obj\Debug\net6.0\color.AssemblyInfoInputs.cache
+C:\Users\mayur\source\repos\color\obj\Debug\net6.0\color.AssemblyInfo.cs
+C:\Users\mayur\source\repos\color\obj\Debug\net6.0\color.csproj.CoreCompileInputs.cache
+C:\Users\mayur\source\repos\color\obj\Debug\net6.0\color.dll
+C:\Users\mayur\source\repos\color\obj\Debug\net6.0\refint\color.dll
+C:\Users\mayur\source\repos\color\obj\Debug\net6.0\color.pdb
+C:\Users\mayur\source\repos\color\obj\Debug\net6.0\color.genruntimeconfig.cache
+C:\Users\mayur\source\repos\color\obj\Debug\net6.0\ref\color.dll

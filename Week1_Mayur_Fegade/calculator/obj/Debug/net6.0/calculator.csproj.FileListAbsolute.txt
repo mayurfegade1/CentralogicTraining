@@ -1,0 +1,14 @@
+C:\Users\mayur\source\repos\calculator\bin\Debug\net6.0\calculator.exe
+C:\Users\mayur\source\repos\calculator\bin\Debug\net6.0\calculator.deps.json
+C:\Users\mayur\source\repos\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+C:\Users\mayur\source\repos\calculator\bin\Debug\net6.0\calculator.dll
+C:\Users\mayur\source\repos\calculator\bin\Debug\net6.0\calculator.pdb
+C:\Users\mayur\source\repos\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\source\repos\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+C:\Users\mayur\source\repos\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+C:\Users\mayur\source\repos\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\mayur\source\repos\calculator\obj\Debug\net6.0\calculator.dll
+C:\Users\mayur\source\repos\calculator\obj\Debug\net6.0\refint\calculator.dll
+C:\Users\mayur\source\repos\calculator\obj\Debug\net6.0\calculator.pdb
+C:\Users\mayur\source\repos\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
+C:\Users\mayur\source\repos\calculator\obj\Debug\net6.0\ref\calculator.dll

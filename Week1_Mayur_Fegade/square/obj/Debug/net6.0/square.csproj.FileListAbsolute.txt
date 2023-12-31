@@ -1,0 +1,14 @@
+C:\Users\mayur\source\repos\square\bin\Debug\net6.0\square.exe
+C:\Users\mayur\source\repos\square\bin\Debug\net6.0\square.deps.json
+C:\Users\mayur\source\repos\square\bin\Debug\net6.0\square.runtimeconfig.json
+C:\Users\mayur\source\repos\square\bin\Debug\net6.0\square.dll
+C:\Users\mayur\source\repos\square\bin\Debug\net6.0\square.pdb
+C:\Users\mayur\source\repos\square\obj\Debug\net6.0\square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\source\repos\square\obj\Debug\net6.0\square.AssemblyInfoInputs.cache
+C:\Users\mayur\source\repos\square\obj\Debug\net6.0\square.AssemblyInfo.cs
+C:\Users\mayur\source\repos\square\obj\Debug\net6.0\square.csproj.CoreCompileInputs.cache
+C:\Users\mayur\source\repos\square\obj\Debug\net6.0\square.dll
+C:\Users\mayur\source\repos\square\obj\Debug\net6.0\refint\square.dll
+C:\Users\mayur\source\repos\square\obj\Debug\net6.0\square.pdb
+C:\Users\mayur\source\repos\square\obj\Debug\net6.0\square.genruntimeconfig.cache
+C:\Users\mayur\source\repos\square\obj\Debug\net6.0\ref\square.dll

@@ -1,0 +1,14 @@
+C:\Users\mayur\source\repos\crud_op\crud_op\bin\Debug\net6.0\crud_op.exe
+C:\Users\mayur\source\repos\crud_op\crud_op\bin\Debug\net6.0\crud_op.deps.json
+C:\Users\mayur\source\repos\crud_op\crud_op\bin\Debug\net6.0\crud_op.runtimeconfig.json
+C:\Users\mayur\source\repos\crud_op\crud_op\bin\Debug\net6.0\crud_op.dll
+C:\Users\mayur\source\repos\crud_op\crud_op\bin\Debug\net6.0\crud_op.pdb
+C:\Users\mayur\source\repos\crud_op\crud_op\obj\Debug\net6.0\crud_op.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\source\repos\crud_op\crud_op\obj\Debug\net6.0\crud_op.AssemblyInfoInputs.cache
+C:\Users\mayur\source\repos\crud_op\crud_op\obj\Debug\net6.0\crud_op.AssemblyInfo.cs
+C:\Users\mayur\source\repos\crud_op\crud_op\obj\Debug\net6.0\crud_op.csproj.CoreCompileInputs.cache
+C:\Users\mayur\source\repos\crud_op\crud_op\obj\Debug\net6.0\crud_op.dll
+C:\Users\mayur\source\repos\crud_op\crud_op\obj\Debug\net6.0\refint\crud_op.dll
+C:\Users\mayur\source\repos\crud_op\crud_op\obj\Debug\net6.0\crud_op.pdb
+C:\Users\mayur\source\repos\crud_op\crud_op\obj\Debug\net6.0\crud_op.genruntimeconfig.cache
+C:\Users\mayur\source\repos\crud_op\crud_op\obj\Debug\net6.0\ref\crud_op.dll

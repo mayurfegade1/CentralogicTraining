@@ -1,0 +1,14 @@
+C:\Users\mayur\source\repos\username\bin\Debug\net6.0\username.exe
+C:\Users\mayur\source\repos\username\bin\Debug\net6.0\username.deps.json
+C:\Users\mayur\source\repos\username\bin\Debug\net6.0\username.runtimeconfig.json
+C:\Users\mayur\source\repos\username\bin\Debug\net6.0\username.dll
+C:\Users\mayur\source\repos\username\bin\Debug\net6.0\username.pdb
+C:\Users\mayur\source\repos\username\obj\Debug\net6.0\username.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\source\repos\username\obj\Debug\net6.0\username.AssemblyInfoInputs.cache
+C:\Users\mayur\source\repos\username\obj\Debug\net6.0\username.AssemblyInfo.cs
+C:\Users\mayur\source\repos\username\obj\Debug\net6.0\username.csproj.CoreCompileInputs.cache
+C:\Users\mayur\source\repos\username\obj\Debug\net6.0\username.dll
+C:\Users\mayur\source\repos\username\obj\Debug\net6.0\refint\username.dll
+C:\Users\mayur\source\repos\username\obj\Debug\net6.0\username.pdb
+C:\Users\mayur\source\repos\username\obj\Debug\net6.0\username.genruntimeconfig.cache
+C:\Users\mayur\source\repos\username\obj\Debug\net6.0\ref\username.dll
