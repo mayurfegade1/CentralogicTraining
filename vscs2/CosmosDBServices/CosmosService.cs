@@ -162,8 +162,8 @@ namespace vscs2.CosmosDBServices
                 // Replace these values with your actual SMTP server and credentials
                 string smtpServer = "smtp.gmail.com";
                 int smtpPort = 587; // Typically 587 or 25
-                string smtpUsername = "mfegade295@gmail.com";
-                // string smtpPassword = "fuat zkve ucjd thcv";
+                string smtpUsername = "your_smtp_gmail";
+                // string smtpPassword = "your_app_password";// for detail see prev commit
                 string smtpPassword = "zsji tzyg kohl neqt";
                 // Create a new SMTP client
                 using (SmtpClient smtpClient = new SmtpClient(smtpServer, smtpPort))
